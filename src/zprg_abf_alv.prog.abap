@@ -30,3 +30,5 @@ START-OF-SELECTION.
       id_custcont_name = 'CONTAINER_ALV'
 *      io_custcont =
       .
+
+  WRITE 'Successful'.
